@@ -18,10 +18,10 @@ plt.style.use('fivethirtyeight')
 
 
 #twitter api credntials
-consumer_key = 'GFxHrGjMrzpwvy8ONzzaiqgHB'
-consumer_secret = '6DkoZoTXXvUXJLDftl0xr1zbumqCg1p8fySv54Ot2KjEesXCNh'
-access_token = '1456329691-Y2MzmZZADVhfpkxY9lkUB9TsHHgpEplVsGaBzXS'
-access_token_secret = 'KDewNgkkU6KayjB8RJ4h6tOlEutiQ6iMx8ko7gA0dWv7p'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 #authenticate
 authenticate = tweepy.OAuthHandler(consumer_key,consumer_secret)
